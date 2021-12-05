@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @valiantcaballero
-- 👀 I’m interested in ...lietrature and sciences 
-- 🌱 I’m currently learning ...programming
-- 💞️ I’m looking to collaborate on ...software developing
+- 👋 Hi, I’m Raj Goswami
+- 👀 I’m interested in ...lietrature and sciences and computer-technology
+- 🌱 I’m currently pursuing a career in computer programming 
+- 💞️ I’m looking to collaborate on ...software development 
+- 🦄 I'm learning and aiming to develop my skills 
 - 📫 How to reach me ...@valiantcaballero instagram
 
 <!---
