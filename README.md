@@ -1,16 +1,13 @@
-### Hi there , whoever is there 👋
+👋🏽 Hi, my name is Raj Goswami
 
-<!--
-**valiantcaballero/valiantcaballero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Soon to be graduate with a Bachelor's of Technology in Computer Science and Engineering ( 2024)
 
-Here are some ideas to get you started:
+🌇 Chhindwara Native, with a passion for creating content and developing strategies that will grow your business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 work experience < comes here >
+
+💻 As for my future, I hope to one day work as a Software Engineer and work with a diverse team
+
+🏔 In my free time, you can find me sketching and writing poems.
+
+💪🏽 Creativity, Problem-solving skills, Critical-thinking skills, DBMS, software development
