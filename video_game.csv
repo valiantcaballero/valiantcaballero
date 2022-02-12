@@ -1,0 +1,25 @@
+name,rating,genre,release_year,platform,sno
+Asphault 9,8.13,online-multiplayer,2018,PC,1
+Clash-of-Clans,9.6,strategy,2012,ANDR,2
+CUPHEAD,9.88,retro-platformer,2017,PC,3
+Fortnite,9.6,online-survival,2017,NULL,4
+Grand-Theft-Auto,9.99,online-open-world,2013,PC,5
+Mario Kart,9.3,Multiplayer racing,2014,NULL,6
+Mine-Craft,8.5,Pixel-Open-World,2011,NULL,7
+Red Dead Redemption 2,9.4,action-adventure,2018,NULL,8
+Resident-Evil-6,9,horro-Third-person-shooter,2012,NULL,9
+VALORANT,9.6,multiplayer-FPS,2020,PC,10
+War-Frame,8.87,Role-playing,2013,NULL,11
+Far-Cry-3,8.96,Role-playing-Open-World,2012,NULL,12
+Call-of-duty-Black-ops,8.74,first-person-shooter,2010,PC,13
+Need-for-Speed-most-wanted,9,open-world-racing,2012,PC,14
+Call-of-duty-modern-warfare-3,8.74,FPS-war,2011,PC,15
+Battle-field-5,7.8,First-person-Shooter-war,2018,PC,16
+Castlevania-lords-of-shadow-2,7.65,Action-Advanture-RPG,2014,PC,17
+Need-for-Speed-The-run,8.32,open-world-racing,2011,PC,18
+Pokemon-X-Y,8.32,role-playing-adventure,2013,Switch,19
+Undead-Knights,7.44,role-playing-adventure-,2009,PSP,20
+God-of-War-Ghosts-of-Sparta,8.94,Adventure-Action,2010,PS3/PC,21
+Street-Fighter-V,9.43,Fighting,2016,PS4/PC,22
+Tekken-7,9.16,Fighting,2015,PS4/PC,23
+Warframe,9.83,online-open-world,2013,PC/PS4,24
